@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi 👋 I'm Vaishnavi Dauale
 
-<!--
-**vaishnaviadauale/vaishnaviadauale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Passionate Data Analyst📊 from India
 
-Here are some ideas to get you started:
+🔭 I’m a life long learner,currently exploring more about Data Analyst!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔎 I’m currently working on Chatbot Assistance For Real Time Weather Forecast project.
+
+🌱 I’m currently learning Machine Learning,Deep Learning,NLP,Power Bi.
+
+📋 My analytics toolbox contains SQL,Python,Power Bi & MS Excel.
+
+💬 Ask me about Python,eda,sql queries,excel.
+
+📫 Reach me Gmail - vaishnavidaule4@gmail.com.
+
+🔗 Connect with me at Linkedin - https://www.linkedin.com/in/vaishnavi-dauale/.
+
+❤️ I'm always enthusiastic for learning new things!!
