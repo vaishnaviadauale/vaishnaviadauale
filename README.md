@@ -12,7 +12,7 @@ A Passionate Data Analyst📊 from India
 
 💬 Ask me about Python,eda,sql queries,excel.
 
-📫 Reach me Gmail - vaishnavidaule4@gmail.com.
+📫 Reach out me Gmail - vaishnavidaule4@gmail.com.
 
 🔗 Connect with me at Linkedin - https://www.linkedin.com/in/vaishnavi-dauale/.
 
